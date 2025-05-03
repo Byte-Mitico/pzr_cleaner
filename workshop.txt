@@ -1,0 +1,6 @@
+version=1
+id=3475353448
+title=Byte Mitico - PZR Cleaner
+description=This mod rebalances the cleaner items stats to make more sense.
+tags=Build 41;Balance
+visibility=public
